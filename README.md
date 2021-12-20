@@ -4,7 +4,7 @@ This open source project aims to replicate some of the Mac OS(Moneterey, at the 
 
 # Why
 
-I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [WinXP](https://winxp.now.sh/).
+I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, it's desktop, myself. For web. Inspired from [macOS Preact](https://github.com/PuruVJ/macos-preact).
 
 # Stack
 
