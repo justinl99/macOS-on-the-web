@@ -1,10 +1,6 @@
-> 🛑🛑 You're viewing the legacy version. macOS Web has moved over to Svelte! Check out here: [PuruVJ/macos-web](https://github.com/puruvj/macos-web) 🛑🛑
-
-# Mac OS Monterey Web
-
 This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
 
-🔗🔗 [macos.now.sh](https://macos.now.sh)
+🔗🔗 [https://mac-os-on-the-web.vercel.app/](https://mac-os-on-the-web.vercel.app/)
 
 # Why
 
