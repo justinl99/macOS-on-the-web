@@ -1,6 +1,6 @@
 This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
 
-🔗🔗 [https://mac-os-on-the-web.vercel.app/](https://mac-os-on-the-web.vercel.app/)
+🔗🔗 [https://mac-os-on-the-web.com](https://mac-os-on-the-web.vercel.app/)
 
 # Why
 
