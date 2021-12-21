@@ -22,3 +22,10 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 # Can I contribute?
 
 Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
+
+# Thanks to
+
+-Puru VJ (idea and all basic code)
+-Justin L (custom code and update)
+-User1111#0024 on Discord (idea and report bugs)
+-Blade[VN]#1706 on Discord (idea)
