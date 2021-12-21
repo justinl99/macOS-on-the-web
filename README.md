@@ -1,4 +1,4 @@
-This open source project aims to replicate some of the Mac OS(Moneterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
+This open source project aims to replicate some of the macOS(Monterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
 
 🔗🔗 [https://mac-os-on-the-web.com](https://mac-os-on-the-web.vercel.app/)
 
@@ -25,7 +25,7 @@ Sure, open an issue, point out errors, and what not. Wanna fix something yoursel
 
 # Thanks to
 
--Puru VJ (idea and all basic code)
--Justin L (custom code and update)
--User1111#0024 on Discord (idea and report bugs)
--Blade[VN]#1706 on Discord (idea)
+- Puru VJ (idea and all basic code)
+- Justin L (custom code and update)
+- User1111#0024 on Discord (idea and report bugs)
+- Blade[VN]#1706 on Discord (idea)
