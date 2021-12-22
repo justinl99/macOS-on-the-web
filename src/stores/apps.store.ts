@@ -16,7 +16,7 @@ export const openAppsStore = atom<Record<AppID, boolean>>({
   calendar: false,
   'system-preferences': false,
 
-  'justinl-twitter': false,
+  'puru's-twitter': false,
   'view-source': false,
 });
 
