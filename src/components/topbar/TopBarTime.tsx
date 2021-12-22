@@ -9,7 +9,7 @@ export const TopBarTime = () => {
 
   return (
     <div style={{ margin: '0 0.5rem' }}>
-      {format(time, 'EEE dd MMM')}&nbsp; {format(time, 'h:mm aa')}
+      {format(time, 'EEE MMM dd')}&nbsp; {format(time, 'h:mm aa')}
     </div>
   );
 };
