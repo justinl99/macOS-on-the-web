@@ -6,7 +6,6 @@ export type AppID = keyof typeof appsConfig;
 /** Which apps are currently open */
 export const openAppsStore = atom<Record<AppID, boolean>>({
   finder: false,
-  vscode: false,
   calculator: false,
   safari: false,
   messages: false,
@@ -16,7 +15,6 @@ export const openAppsStore = atom<Record<AppID, boolean>>({
   calendar: false,
   'system-preferences': false,
 
-  'puru's-twitter': false,
   'view-source': false,
 });
 
