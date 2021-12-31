@@ -1,3 +1,5 @@
+# New version here: [macosontheweb2.com](https://mac-os-on-the-web-2.vercel.app/)
+
 This open source project aims to replicate some of the macOS(Monterey, at the time)'s desktop experience on web, using standard web technologies like HTML, CSS and JS
 
 🔗🔗 [https://mac-os-on-the-web.com](https://mac-os-on-the-web.vercel.app/)
